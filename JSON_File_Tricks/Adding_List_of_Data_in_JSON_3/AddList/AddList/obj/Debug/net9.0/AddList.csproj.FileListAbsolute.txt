@@ -1,0 +1,15 @@
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/bin/Debug/net9.0/AddList
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/bin/Debug/net9.0/AddList.deps.json
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/bin/Debug/net9.0/AddList.runtimeconfig.json
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/bin/Debug/net9.0/AddList.dll
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/bin/Debug/net9.0/AddList.pdb
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.AssemblyInfoInputs.cache
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.AssemblyInfo.cs
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.csproj.CoreCompileInputs.cache
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.sourcelink.json
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.dll
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/refint/AddList.dll
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.pdb
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/AddList.genruntimeconfig.cache
+/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/Debug/net9.0/ref/AddList.dll
