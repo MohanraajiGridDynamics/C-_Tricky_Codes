@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/AddList.csproj": {}
+    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_1/AddList/AddList/AddList.csproj": {}
   },
   "projects": {
-    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/AddList.csproj": {
+    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_1/AddList/AddList/AddList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/AddList.csproj",
+        "projectUniqueName": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_1/AddList/AddList/AddList.csproj",
         "projectName": "AddList",
-        "projectPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/AddList.csproj",
+        "projectPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_1/AddList/AddList/AddList.csproj",
         "packagesPath": "/Users/mmohanraaji/.nuget/packages/",
-        "outputPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_3/AddList/AddList/obj/",
+        "outputPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/JSON_File_Tricks/Adding_List_of_Data_in_JSON_1/AddList/AddList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mmohanraaji/.nuget/NuGet/NuGet.Config"
