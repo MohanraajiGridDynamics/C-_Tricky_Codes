@@ -1,0 +1,26 @@
+[
+  {
+    "CoursesAvailable": null,
+    "CourseID": 2,
+    "CourseName": "Web Development with HTML, CSS, and JavaScript",
+    "Selected_Courses": null
+  },
+  {
+    "CoursesAvailable": null,
+    "CourseID": 1,
+    "CourseName": "Introduction to Python Programming",
+    "Selected_Courses": null
+  },
+  {
+    "CoursesAvailable": null,
+    "CourseID": 2,
+    "CourseName": "Web Development with HTML, CSS, and JavaScript",
+    "Selected_Courses": null
+  },
+  {
+    "CoursesAvailable": null,
+    "CourseID": 3,
+    "CourseName": "Machine Learning Fundamentals",
+    "Selected_Courses": null
+  }
+]
