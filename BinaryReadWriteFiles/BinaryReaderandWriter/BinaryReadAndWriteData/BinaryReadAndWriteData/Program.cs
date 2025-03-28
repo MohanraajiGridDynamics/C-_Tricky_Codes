@@ -6,7 +6,7 @@ using System.IO;
 class Program
 {
     static void Main()
-    {
+    {//12c4de936540307b31cb40d19a941ec5c2298287
         
         string inputFile = "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/InputFile.txt";
         string outputFile = "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/OutputFile.txt";
