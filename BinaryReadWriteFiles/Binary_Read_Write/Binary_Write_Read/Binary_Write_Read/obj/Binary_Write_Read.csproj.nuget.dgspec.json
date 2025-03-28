@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/BinaryReadAndWriteData.csproj": {}
+    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/Binary_Read_Write/Binary_Write_Read/Binary_Write_Read/Binary_Write_Read.csproj": {}
   },
   "projects": {
-    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/BinaryReadAndWriteData.csproj": {
+    "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/Binary_Read_Write/Binary_Write_Read/Binary_Write_Read/Binary_Write_Read.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/BinaryReadAndWriteData.csproj",
-        "projectName": "BinaryReadAndWriteData",
-        "projectPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/BinaryReadAndWriteData.csproj",
+        "projectUniqueName": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/Binary_Read_Write/Binary_Write_Read/Binary_Write_Read/Binary_Write_Read.csproj",
+        "projectName": "Binary_Write_Read",
+        "projectPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/Binary_Read_Write/Binary_Write_Read/Binary_Write_Read/Binary_Write_Read.csproj",
         "packagesPath": "/Users/mmohanraaji/.nuget/packages/",
-        "outputPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/BinaryReaderandWriter/BinaryReadAndWriteData/BinaryReadAndWriteData/obj/",
+        "outputPath": "/Users/mmohanraaji/Documents/E/C_Sharp_Tips_and_Tricks/BinaryReadWriteFiles/Binary_Read_Write/Binary_Write_Read/Binary_Write_Read/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mmohanraaji/.nuget/NuGet/NuGet.Config"
